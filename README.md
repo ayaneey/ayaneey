@@ -1,7 +1,7 @@
 [![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey+Everyone!&fontSize=90)](https://capsule-render.vercel.app/api?text=Hey+Everyone!&animation=fadeIn)
 
 <a href="https://twitter.com/ayan_ahmed021/">
-  <img height="50" src="![image](![twitter-circle](https://user-images.githubusercontent.com/108099259/203657564-747971c0-8d14-45cd-bb8a-f15eb36d27a3.png))"/>
+  <img height="50" src="![image](https://user-images.githubusercontent.com/108099259/203657619-7a7a99ce-48f7-4a41-ba48-b61bddd49aa8.png)"/>
 </a>
 
 
