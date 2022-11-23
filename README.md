@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 - 👋 Hi, I’m @ayaneey
 - 👀 I’m interested in Full-stack web development!
 - 🌱 I’m currently learning React.Js and doing some personal projects
