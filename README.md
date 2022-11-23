@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey+Everyone!&fontSize=90)](https://capsule-render.vercel.app/api?text=Hey+Everyone!&animation=fadeIn)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey+Everyone!&fontSize=90)](https://capsule-render.vercel.app/api?text=Hey+Everyone!&animation=fadeIn&textBg=true))
 
 - 👋 I’m @ayaneey
 - 👀 I’m interested in Full-stack web development!
