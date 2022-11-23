@@ -1,6 +1,6 @@
 [![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey+Everyone!&fontSize=90)](https://capsule-render.vercel.app/api?text=Hey+Everyone!)
 
-- 👋 Hi, I’m @ayaneey
+- 👋 I’m @ayaneey
 - 👀 I’m interested in Full-stack web development!
 - 🌱 I’m currently learning React.Js and doing some personal projects
 - 💞️ I’m looking to collaborate on Full-Stack applications using MERN stack.
