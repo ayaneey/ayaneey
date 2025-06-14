@@ -55,14 +55,6 @@ When I'm not coding, you'll probably find me with a good book in hand, exploring
 
 ---
 
-### 🎯 Current Focus
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaneey&repo=BrainHustle&theme=tokyonight&hide_border=true" alt="BrainHustle Project" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
 </div>
