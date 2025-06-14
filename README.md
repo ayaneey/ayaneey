@@ -1,18 +1,31 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey+Everyone!&fontSize=90)](https://capsule-render.vercel.app/api?text=Hey+Everyone!&animation=fadeIn)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hey%20There!%20I'm%20Ayan!&fontSize=70&fontAlignY=40)](https://github.com/ayaneey)
 
-<a href="https://twitter.com/ayan_ahmed021/">
-  <img src="https://camo.githubusercontent.com/42312e937813abe3eee7d5e9bb08df31605b20af03dd433c4a0dd6233f9fad16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;">
+<div align="center">
+  <a href="https://twitter.com/ayan_ahmed021/">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
+---
 
-- 👋 I’m @ayaneey
-- 👀 I’m interested in Full-stack web development!
-- 🌱 I’m currently learning React.Js and doing some personal projects
-- 💞️ I’m looking to collaborate on Full-Stack applications using MERN stack.
-- 📫 How to reach me ...
-Twitter: @ayan_ahmed021
-Email: ayanahmed0210@gmail.com
+### 🧠 About Me
 
-<!---
-ayaneey/ayaneey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey! I'm Ayan — a former teacher turned full-stack developer with a passion for building clean, useful, and accessible apps that help people learn and grow.
+
+- 🔭 Currently working on: **BrainHustle** — a GCSE revision app to support students with Maths, English, and Science!
+- 🌱 Learning every day with **React.js**, **Next.js**, and **MongoDB**
+- 💬 Ask me about: React, building dashboards, student productivity tools, or transitioning careers into tech
+- 📫 Reach me at:
+  - 📧 **ayanahmed0210@gmail.com**
+  - 🐦 [**Twitter: @ayan_ahmed021**](https://twitter.com/ayan_ahmed021)
+
+---
+
+### ⚒️ Tech Stack
+
+```bash
+Languages:   JavaScript · HTML · CSS
+Frontend:    React.js · Next.js · Tailwind CSS
+Backend:     Node.js · Express.js · MongoDB · Prisma
+Auth:        Clerk · JWT (previously)
+Deployment:  Vercel
