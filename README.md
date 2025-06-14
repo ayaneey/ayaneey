@@ -61,8 +61,8 @@ When I'm not coding, you'll probably find me with a good book in hand, exploring
   
 Advanced React Patterns  
 UI/UX Design Principles  
-Data Visualization  
-Performance Optimization  
+Data Visualisation  
+Performance Optimisation  
 
 </div>
 
