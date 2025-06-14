@@ -22,6 +22,7 @@ Hey! I'm Ayan — a former teacher turned full-stack developer with a passion fo
 When I'm not coding, you'll probably find me with a good book in hand, exploring creative writing, or diving into topics like education or design. I enjoy learning new tech tools and constantly finding better ways to solve problems through development.
 
 - 📫 Feel free to reach out — I'm always open to connecting with fellow developers!
+- 📫 [Send me an email](mailto:ayanahmed0210@gmail.com)
 
 <br clear="both">
 
