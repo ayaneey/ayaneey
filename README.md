@@ -22,7 +22,7 @@ Hey! I'm Ayan — a former teacher turned full-stack developer with a passion fo
 When I'm not coding, you'll probably find me with a good book in hand, exploring creative writing, or diving into topics like education or design. I enjoy learning new tech tools and constantly finding better ways to solve problems through development.
 
 - 📫 Feel free to reach out — I'm always open to connecting with fellow developers!
-- 📫 [Send me an email](mailto:ayanahmed0210@gmail.com)
+- 📧 [Send me an email](mailto:ayanahmed0210@gmail.com)
 
 <br clear="both">
 
@@ -55,23 +55,10 @@ When I'm not coding, you'll probably find me with a good book in hand, exploring
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 Current Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaneey&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaneey&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaneey&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayaneey&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaneey&repo=BrainHustle&theme=tokyonight&hide_border=true" alt="BrainHustle Project" />
 </div>
 
 ---
