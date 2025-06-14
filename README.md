@@ -67,14 +67,6 @@ When I'm not coding, you'll probably find me with a good book in hand, exploring
 
 ---
 
-### 🎯 Current Focus
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaneey&repo=BrainHustle&theme=radical&hide_border=true" alt="BrainHustle Project" />
-</div>
-
----
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
