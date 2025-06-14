@@ -17,14 +17,11 @@
 
 ### 🧠 About Me
 
-Hey! I'm Ayan — a former teacher turned full-stack developer with a passion for building clean, useful, and accessible apps that help people learn and grow.
+Hey! I'm Ayan — a former teacher turned full-stack developer with a passion for writing clean, purposeful code. I love building personal projects that are practical, meaningful, and user-friendly.
 
-- 🔭 Currently working on: **BrainHustle** — a GCSE revision app to support students with Maths, English, and Science!
-- 🌱 Learning every day with **React.js**, **Next.js**, and **MongoDB**
-- 💬 Ask me about: React, building dashboards, student productivity tools, or transitioning careers into tech
-- 📫 Reach me at:
-  - 📧 **ayanahmed0210@gmail.com**
-  - 🐦 [**Twitter: @ayan_ahmed021**](https://twitter.com/ayan_ahmed021)
+When I'm not coding, you'll probably find me with a good book in hand, exploring creative writing, or diving into topics like education or design. I enjoy learning new tech tools and constantly finding better ways to solve problems through development.
+
+- 📫 Feel free to reach out — I'm always open to connecting with fellow developers!
 
 <br clear="both">
 
