@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" alt="Woman Coding GIF" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### 🧠 About Me
 
@@ -51,6 +51,14 @@ When I'm not coding, you'll probably find me with a good book in hand, exploring
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+</div>
+
+---
+
+### 🎯 Current Focus
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaneey&repo=BrainHustle&theme=tokyonight&hide_border=true" alt="BrainHustle Project" />
 </div>
 
 ---
