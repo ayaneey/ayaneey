@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Woman Coding GIF" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Woman Coding GIF" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="margin-left: 20px;">
 
 ### 🧠 About Me
 
@@ -61,8 +61,8 @@ When I'm not coding, you'll probably find me with a good book in hand, exploring
   
 Advanced React Patterns  
 UI/UX Design Principles  
-Data Visualisation  
-Performance Optimisation  
+Data Visualization  
+Performance Optimization  
 
 </div>
 
